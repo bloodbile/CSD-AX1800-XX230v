@@ -1,4 +1,4 @@
-# CSD-AX1800-XX230v
+# 🎀 CSD-AX1800-XX230v 🎀
 A critical vulnerability has been found in the remote access panel of<br/>
 all TP-LINK AX1800 XX230v GPON routers. The identified vulnerability,<br/>
 a client-side desync (CSD) issue, affects the HTTP/1.1 protocol used by<br/>
